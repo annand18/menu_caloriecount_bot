@@ -1,0 +1,184 @@
+{
+  "dishes": [
+    {
+      "name": "МакМаффин с яйцом и сыром",
+      "id": 1,
+      "ingredients": [
+        {
+          "id": 11,
+          "ingredient": "Булочка МакМаффин",
+          "kcal": 220,
+          "proteins": 7,
+          "fats": 4,
+          "carbs": 38
+        },
+        {
+          "id": 12,
+          "ingredient": "Яйцо",
+          "kcal": 70,
+          "proteins": 6,
+          "fats": 5,
+          "carbs": 1
+        },
+        {
+          "id": 13,
+          "ingredient": "Сыр Чеддер",
+          "kcal": 100,
+          "proteins": 7,
+          "fats": 8,
+          "carbs": 1
+        }
+      ]
+    },
+    {
+      "name": "МакМаффин с беконом и яйцом",
+      "id": 2,
+      "ingredients": [
+        {
+          "id": 21,
+          "ingredient": "Булочка МакМаффин",
+          "kcal": 220,
+          "proteins": 7,
+          "fats": 4,
+          "carbs": 38
+        },
+        {
+          "id": 22,
+          "ingredient": "Яйцо",
+          "kcal": 70,
+          "proteins": 6,
+          "fats": 5,
+          "carbs": 1
+        },
+        {
+          "id": 23,
+          "ingredient": "Бекон",
+          "kcal": 150,
+          "proteins": 10,
+          "fats": 12,
+          "carbs": 0
+        },
+        {
+          "id": 24,
+          "ingredient": "Сыр Чеддер",
+          "kcal": 100,
+          "proteins": 7,
+          "fats": 8,
+          "carbs": 1
+        }
+      ]
+    },
+    {
+      "name": "Биг Брекфаст",
+      "id": 3,
+      "ingredients": [
+        {
+          "id": 31,
+          "ingredient": "Яичница-болтунья",
+          "kcal": 140,
+          "proteins": 9,
+          "fats": 11,
+          "carbs": 2
+        },
+        {
+          "id": 32,
+          "ingredient": "Пшеничная булочка",
+          "kcal": 210,
+          "proteins": 6,
+          "fats": 3,
+          "carbs": 40
+        },
+        {
+          "id": 33,
+          "ingredient": "Колбаска для завтрака",
+          "kcal": 170,
+          "proteins": 7,
+          "fats": 15,
+          "carbs": 1
+        },
+        {
+          "id": 34,
+          "ingredient": "Картофельные оладьи",
+          "kcal": 160,
+          "proteins": 2,
+          "fats": 10,
+          "carbs": 16
+        }
+      ]
+    },
+    {
+      "name": "Омлет с ветчиной и сыром",
+      "id": 6,
+      "ingredients": [
+        {
+          "id": 61,
+          "ingredient": "Яйца",
+          "kcal": 200,
+          "proteins": 12,
+          "fats": 15,
+          "carbs": 2
+        },
+        {
+          "id": 62,
+          "ingredient": "Ветчина",
+          "kcal": 80,
+          "proteins": 10,
+          "fats": 4,
+          "carbs": 1
+        },
+        {
+          "id": 63,
+          "ingredient": "Сыр",
+          "kcal": 100,
+          "proteins": 7,
+          "fats": 8,
+          "carbs": 1
+        }
+      ]
+    },
+    {
+      "name": "Йогурт с фруктами",
+      "id": 7,
+      "ingredients": [
+        {
+          "id": 71,
+          "ingredient": "Йогурт",
+          "kcal": 150,
+          "proteins": 5,
+          "fats": 3,
+          "carbs": 25
+        },
+        {
+          "id": 72,
+          "ingredient": "Фрукты (ягоды, банан)",
+          "kcal": 100,
+          "proteins": 1,
+          "fats": 0,
+          "carbs": 22
+        }
+      ]
+    },
+    {
+      "name": "Круассан с шоколадом",
+      "id": 8,
+      "ingredients": [
+        {
+          "id": 81,
+          "ingredient": "Круассан",
+          "kcal": 250,
+          "proteins": 4,
+          "fats": 14,
+          "carbs": 30
+        },
+        {
+          "id": 82,
+          "ingredient": "Шоколадная начинка",
+          "kcal": 150,
+          "proteins": 2,
+          "fats": 9,
+          "carbs": 18
+        }
+      ]
+    }
+  ]
+}
