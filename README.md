@@ -52,6 +52,5 @@ This Telegram bot allows users to calculate the caloric and nutritional value (K
 3. Choose options to add, edit, or remove dishes.
 4. View the final KBJU breakdown of selected dishes.
 
-## License
-This project is licensed under the MIT License.
+
 
